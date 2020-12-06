@@ -22,7 +22,7 @@ Technologies used:
 Nothing needs to be installed!
 
 ## Usage 
-Head over to URLPENDING. Merely click on the buttons and watch the magic!
+Head over to https://infinite-mountain-31511.herokuapp.com/. Merely click on the buttons and watch the magic!
 
 ![screenshot](borger.png)
 
