@@ -1,4 +1,4 @@
-# The Employee Tracker [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Eat-Da-Burger [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description 
 Experience the wonder of eating any burger without having to watch calories! You can add in your own burger type and it will be added to the database. Choosing to eat or regurgitate it will place it on either side of the screen and
